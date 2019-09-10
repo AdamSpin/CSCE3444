@@ -1,14 +1,20 @@
-# Group Name: 20/20 Vision
+Group Name:     20/20 Vision
+Group Members:  
 
-Project Description:  For our project, we decided to create a personal financing app or website.
+Project Description:
+    For our project, we decided to create a personal financing app or website that will help users save their money
+    in the most sophisticated and ideal way.
 
+Problem Statement: Write a paragraph explaining the motivation behind choosing the project-
+    We chose to create a personal financing application or website that will use the users information that is inputted
+    to provide suggestions to that user about how they can save money. We thought this was a good project to do because
+    we all have interests in saving money, and we felt like this was the most user helpful idea that we had.
 
-Problem Statement: Write a paragraph explaining the motivation behind choosing the project
-    We chose 
+List of users: Who will be using your system-
+    Anybody who can make an account can use this system.
 
-List of users: Who will be using your system
-  Anybody who can make an account can use this system.
+List of functionalities provided for each user: What are the features provided for each user to use?-
+    
 
-List of functionalities provided for each user: What are the features provided for each user to use?
-
-List of potential technologies being used: Like technology for database, language(s) of implementation etc.
+List of potential technologies being used: Like technology for database, language(s) of implementation etc.-
+    
