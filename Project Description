@@ -1,5 +1,5 @@
 Group Name:     20/20 Vision
-Group Members:  Allan Lieu
+Group Members:  Allan Lieu, Parker Tuck
 
 Project Description:
     For our project, we decided to create a personal financing app or website that will help users save their money
@@ -11,10 +11,18 @@ Problem Statement: Write a paragraph explaining the motivation behind choosing t
     we all have interests in saving money, and we felt like this was the most user helpful idea that we had.
 
 List of users: Who will be using your system-
-    Anybody who can make an account can use this system.
+    Any customer/user that has access to a phone or computer AND has an email account of any kind can make an account. There are 
+    no payment requirements or other requirements.
+    We expect our typical client to be a person between the ages of 16-90. Although the system can be used by anyone, it will
+    probably only be used by the people in this age range because they are the ones who will be making or spending money on a
+    regular basis.
 
 List of functionalities provided for each user: What are the features provided for each user to use?-
-    
+    Each user will be able to:
+        - Have a running total of their money
+        - Keep track on transactions (deposits, withdrawals, expenses)
+        - Monthly profit/loss analysis
+        - Advice of how to save money
 
 List of potential technologies being used: Like technology for database, language(s) of implementation etc.-
     
