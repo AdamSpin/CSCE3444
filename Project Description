@@ -3,12 +3,13 @@ Group Members:  Allan Lieu, Parker Tuck, Adam Spinhirne, Travis Nguyen
 
 Project Description:
     For our project, we decided to create a personal financing app that will help users budget and save their money
-    in the most sophisticated way. 
+    in the most simple and efficient way. 
 
 Problem Statement: Write a paragraph explaining the motivation behind choosing the project-
     People all over the world have trouble with budgeting and spending money wisely. We hope to facilitate budgeting so
     people can worry less about the hassle, and enjoy their money more. We chose to create a personal financing application 
-    that will use the users information that is inputted to provide suggestions to that user about how they can save money. 
+    that will use the users information that is inputted to provide suggestions to that user about how they can save money
+    and to keep track of all personal finances. 
     We thought this was a good project to do because we all have interests in saving money, and we felt like this was the 
     most user helpful idea that we had.
 
@@ -24,16 +25,18 @@ List of users: Who will be using your system-
 
 List of functionalities provided for each user: What are the features provided for each user to use?-
     Each user will be able to:
-        - Have a running total of their money
+        - Have a running total of their finances
         - See if they are on, over, or below their budget at any time
         - Track big purchases and save money for them
         - Link different bank accounts and cards
         - Keep track on transactions (deposits, withdrawals, expenses)
         - Monthly profit/loss analysis
         - Advice of how to save money
-
+        - Set financial goals and how they can achieve it.
 List of potential technologies being used: Like technology for database, language(s) of implementation etc.-
     React Native
     Javascript
     Java
     C++
+    Python
+    API (for receiving information from bank institutions)
